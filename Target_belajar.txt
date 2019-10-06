@@ -6,3 +6,5 @@ Kamis : GNS 3
 Jumat : Triger DB
 Sabtu : Bagas Dwi Santoso Tugas Kelompok SI
 Minggu : Bagas Dwi Santoso Tugas Kelompok Basis Data Lanjut
+
+Ini perubahan file yang di BRANCH
