@@ -5,3 +5,5 @@ Kamis : GNS 3
 Jumat : Tringger DB
 Sabtu : Furqan Tugas Kelompok UI
 Minggu : Furqan Tugas Kelompok Basis Data Lanjut
+
+Ini di master
