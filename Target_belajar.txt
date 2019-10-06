@@ -1,9 +1,8 @@
-Senin : GIT
+Senin : GIT (Branch, Merge)
+Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS 3
-Jumat : Tringger DB
-Sabtu : Furqan Tugas Kelompok UI
-Minggu : Furqan Tugas Kelompok Basis Data Lanjut
-
-Ini di master
+Jumat : Triger DB
+Sabtu : Bagas Dwi Santoso Tugas Kelompok SI
+Minggu : Bagas Dwi Santoso Tugas Kelompok Basis Data Lanjut
